@@ -1,0 +1,2 @@
+rosario1|123456|Doctor|activo|1
+leonor|leoleo|Paciente|activo|1
